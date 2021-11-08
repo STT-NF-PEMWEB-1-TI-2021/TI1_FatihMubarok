@@ -1,0 +1,35 @@
+.kuning{
+    margin-top: 20px;
+    background-color: yellow;
+    margin-left: 150px;
+    width: 200px;
+    height: 600px;
+    float: left;
+}
+
+.oranye{
+    margin-top: 20px;
+    margin-left: 50px;
+    float: left;
+    background-color: orange;
+    width: 200px;
+    height: 600px;
+}
+
+.hijau{
+    margin-top: 20px;
+    margin-left: 50px;
+    background-color: green;
+    float: left;
+    width: 200px;
+    height: 600px;
+}
+
+.biru{
+    margin-top: 20px;
+    margin-left: 50px;
+    background-color: blue;
+    float: left;
+    width: 200px;
+    height: 600px;
+}
